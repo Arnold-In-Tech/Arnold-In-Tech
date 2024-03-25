@@ -1,4 +1,4 @@
-### Howzit 👋
+# Howzit! 👋
 
 ```cli
 Arnold-In-Tech@github:~ $ whoami
