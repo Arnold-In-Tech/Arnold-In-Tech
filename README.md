@@ -13,7 +13,7 @@ Arnold-In-Tech@github:~ $ whoami
   <table>
   <tr>
       <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=Arnold-In-Tech&show_icons=true"/></td>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arnold-In-Tech&langs_count=6&hide=scss,less&layout=compact"/></td>      
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arnold-In-Tech&langs_count=6&hide=scss,mako,less&layout=compact"/></td>      
   </tr>   
 </table>
 
