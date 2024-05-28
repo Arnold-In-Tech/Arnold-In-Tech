@@ -7,7 +7,8 @@ Arnold-In-Tech@github:~ $ whoami
   • 💼 A data scientist 
   • 🧗 An outdoor enthusiast 
 ```
-⚙️ I use `Python`,`Javascript`,`HTML/CSS`,`SQL`,`React`,`Flask`, and `R` to develop fullstack applications & solve complex data problems 
+⚙️ I use `Python`,`Javascript`,`HTML/CSS`,`SQL/SQLAlchemy`,and `R` to develop fullstack web applications & solve complex data problems.
+
 
 ### :octocat: My stats
   <table>
