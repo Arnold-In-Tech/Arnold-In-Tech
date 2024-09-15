@@ -1,4 +1,4 @@
-## Howzit! 👋
+## Hi there! 👋
 
 ```cli
 Arnold-In-Tech@github:~ $ whoami
@@ -7,7 +7,7 @@ Arnold-In-Tech@github:~ $ whoami
   • 💼 A data scientist 
   • 🧗 An outdoor enthusiast 
 ```
-⚙️ I use `Python`,`Javascript`,`HTML/CSS`,`SQL`,and `R` to develop fullstack web applications and solve complex data problems
+⚙️ I leverage `Python`,`Javascript`,and `SQL`, along with React and Flask, to build full-stack web applications and tackle data challenges
 
 ## Languages and tools:
 <img align="left" alt="Python" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
