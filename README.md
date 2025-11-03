@@ -7,7 +7,7 @@ Arnold-In-Tech@github:~ $ whoami
   • 💼 A data scientist 
   • 🧗 An outdoor enthusiast 
 ```
-⚙️ I leverage `Python`,`Javascript`,and `SQL`, along with React and Flask, to build full-stack web applications and tackle data challenges
+⚙️ I specialize in building full-stack web applications, automation, and scaling application performance across distributed systems.
 
 ## Languages and tools:
 <img align="left" alt="Python" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
